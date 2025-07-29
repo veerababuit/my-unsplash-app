@@ -3,6 +3,7 @@ import axios from 'axios';
 import SearchBar from './components/SearchBar';
 import ImageList from './components/ImageList';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../src/global.css';
 
 const App = () => {
   const [images, setImages] = useState([]);
