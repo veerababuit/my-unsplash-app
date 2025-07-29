@@ -1,0 +1,10 @@
+my-unsplash-app/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── SearchBar.js
+│   │   ├── ImageList.js
+│   ├── App.js
+│   ├── index.js
+├── package.json
